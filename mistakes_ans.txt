@@ -1,0 +1,11 @@
+Overflow while counting
+Divide by zero
+2 or more operations in a row
+Brackets are disbalanced.
+Long variable name
+Incorrect symbol k
+2 or more operands in a row.
+A '*' or '/' after an open bracket.
+2 or more operands in a row.
+Wrong input
+Incorrect imput. Only one point

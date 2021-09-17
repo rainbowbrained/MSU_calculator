@@ -1,0 +1,16 @@
+x   = .000000000001
+as = 1.
+(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)*(as/x)
+x12345 = 0
+12345x = 10
+(12345x + as)/(-1 +1 + x12345)
+4+(3+1+4*(2+3  )+ -4*2 + 1 - 1
+4+(3+4*(2+3  )+ 4)*2) + 1 - 1
+va2)    = .1
+123!456 = 12
+var = k 12
+(12345x + as as)/(-1 +1 + + x12345)
+4 + (*8)
+4 + 4 as
++ 1 + 2 +
+var = .
