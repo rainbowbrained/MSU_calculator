@@ -140,20 +140,35 @@ operations. All stacks may be infinitely long.
   Notation:
 
 [1] struct stack* StackInit(void);
+
 [2] void StackDeinit(struct stack *pt);
+
 [3] long long int size(struct stack *pt);
+
 [4] int isEmpty(struct stack *pt);
+
 [5] int isFull(struct stack *pt);
+
 [6] void push(struct stack *pt, char x);
+
 [7] char peek(struct stack *pt);
+
 [8] char pop(struct stack *pt);
+
 [9] struct ostack* oStackInit(void);
+
 [10] void oStackDeinit(struct ostack *pt);
+
 [11] long long int osize(struct ostack *pt);
+
 [12] int oisEmpty(struct ostack *pt);
+
 [13] int oisFull(struct ostack *pt);
+
 [14] void opush(struct ostack *pt, double x);
+
 [15] double opeek(struct ostack *pt);
+
 [16] double opop(struct ostack *pt);
 
 _____________________________________________________________________
@@ -369,26 +384,43 @@ _____________________________________________________________________
 calculate, controlls of input, computations and getting the result. 
 
   Library <polis.h> uses auxiliary libraries:
+
 1) <stdio.h>
+
 2) <errno.h>
+
 3) <stdlib.h>
+
 4) <string.h>
+
 5) <float.h>
+
 6) "stack.h"
 
   Notation:
 
 [1] struct variables* VarInit(void);
+
 [2] void VarDeinit(struct variables *pt)
+
 [3] int VarisFull(struct variables *pt)
+
 [4] void VarAdd(struct variables *pt, char* new_name, double new_val);
+
 [5] long long int inVar(struct variables *pt, char *new_name)
+
 [6] void VarPrint(struct variables *pt)
+
 [7] int GetVarFromStr (struct variables *pt, char *str)
+
 [8] int GetCalcInfo (struct variables *pt, char *input_str) 
+
 [9] int GeneratePolis (char *str, struct variables *table)
+
 [10] double CalculatePolis (char *str, struct variables *table) 
+
 [11] double CalculateOperation (double y, double x, char * operand);
+
 [12] void FlushTable (struct variables *pt)
 
 _____________________________________________________________________
